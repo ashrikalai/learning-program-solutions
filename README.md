@@ -1,12 +1,17 @@
 **Digital Nurture 4.0 - DeepSkilling Assignments**
 
 **Overview**
+
 This repository contains my solutions for the Cognizant DeepSkilling Learning Program.
+
 It includes all hands-on exercises assigned by Cognizant in learning progress.
+
 Each week focuses on a different set of skills, ranging from Java fundamentals to Spring Boot, React, and Git.
 
 **Program Duration**
+
 Total Duration: 8 weeks
+
 Mode: Hands-on Learning + Practical Implementation
 
 **Content**
@@ -23,6 +28,7 @@ Mode: Hands-on Learning + Practical Implementation
 | Week 8 | Git – Branching, Merging, Conflict Resolution             | `Week 8_Git.docx`                                                                         |
 
 **Skills Covered**
+
 Java & Spring: Core, Maven, Data JPA, REST APIs
 
 Microservices: Design & Implementation
@@ -36,8 +42,11 @@ Testing: JUnit 5, Mockito
 Database: PL/SQL Queries
 
 **Notes**
+
 These solutions are for learning and reference purposes.
+
 Please adapt and test code examples before using them in real projects.
 
 **Author** 
+
 G ASHRITHA
